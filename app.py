@@ -10,7 +10,7 @@ password = "LINKregiM1@"  # Password skype
 REPORTING_GROUP_ID = "19:c378e6799eb041e796fa1c2373dadc5d@thread.skype" # Reporting group id
 # MAIN_GROUP_ID = "19:0404d69a274f4de1bc5c88396086f95a@thread.skype" # Main group id
 MAIN_GROUP_ID = "19:c378e6799eb041e796fa1c2373dadc5d@thread.skype" # Main group id
-TIME = "4:39"
+TIME = "4:42:00"
 
 # Skype Events
 class SkypeHomeworkBot(SkypeEventLoop):
