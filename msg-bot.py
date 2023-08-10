@@ -41,7 +41,7 @@ if __name__ == '__main__':
     password = "LINKregiM1@"  # Password skype
     REPORTING_GROUP_ID = "19:c378e6799eb041e796fa1c2373dadc5d@thread.skype"  # Reporting group id
     MAIN_GROUP_ID = "19:c378e6799eb041e796fa1c2373dadc5d@thread.skype"  # Main group id
-    TIME = "01:23"
+    TIME = "01:25"
 
     sk = SkypeHomeworkBot(user, password, REPORTING_GROUP_ID, MAIN_GROUP_ID, TIME)
     sk.run_schedule()
